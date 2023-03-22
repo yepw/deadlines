@@ -3,7 +3,7 @@ description: Countdowns to conference deadlines
 author: Abhishek Das
 
 domain: ""
-baseurl: "yepw.github.io/deadlines"
+baseurl: "https://yepw.github.io/deadlines"
 
 twitter_hashtag: machinelearning
 github_username: yepw
