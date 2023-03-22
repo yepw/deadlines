@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: Conference Deadlines
+description: Countdowns to conference deadlines
 author: Abhishek Das
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: ""
+baseurl: "yepw.github.io/deadlines"
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: yepw
+github_repo: deadlines
 
 markdown: kramdown
 ga_id:
